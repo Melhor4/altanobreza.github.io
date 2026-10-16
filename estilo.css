@@ -20,6 +20,7 @@
     border-radius: 8px;
     margin-left: 48px;
     margin-right: 14px;
+    padding: 14px;
 }
 
 .cabeça-itens h1{
@@ -30,4 +31,8 @@ img {
     display: block;
     align-items: center;
     width: 75%;
+}
+
+.cabeça-itens h1{
+    margin-right: 888px;
 }
